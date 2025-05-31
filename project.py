@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 def cost():
     money = 1000
@@ -43,4 +44,6 @@ def main():
 main()
         
 
+=======
+>>>>>>> 6fd813908b75ba9d81462041ed5861c2f4d96fca
 
